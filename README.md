@@ -1,0 +1,2 @@
+# OpenLiqNumeric
+LiqNumeric is a software that allows evaluating the dynamic behavior of non-cohesive soils under the action of seismic excitations. Seismic phenomena such as liquefaction and lateral propagation and numerical solutions based on repeated tests can be evaluated through dynamic analysis of a 2D layered Soil Column and multiple input data. Both inputs and outputs are managed from a user interface, facilitating the analysis and interpretation of results.
