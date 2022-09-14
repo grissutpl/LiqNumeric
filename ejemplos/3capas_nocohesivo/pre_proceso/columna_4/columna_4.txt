@@ -1,0 +1,76 @@
+########################## DATOS GENERALES ##########################
+set sElemX 2
+set waterTable 2
+set damp 0.02
+set rockDen 2.5
+set rockVS 700
+set motionDT 0.005
+set motionStep 6180
+set numLayers 3
+
+##########################    ESTRATO 1    ##########################
+set tipo(1) 1
+set grade(1) 0
+set layerThick(1) 20
+set rho(1) 2.45
+set refShearModul(1) 130000
+set refBulkModul(1) 260000
+set uBulk(1) 6880000
+set frictionAng(1) 39
+set vPerm(1) 0.0001
+set hPerm(1) 0.0001
+set Vs(1) 250
+set refPress(1) 101
+set surf(1) 20
+set e(1) 0.47
+set PTAng(1) 26
+set contrac1(1) 0.013
+set contrac3(1) 0
+set dilat1(1) 0.3
+set dilat3(1) 0
+set cohesion(1) -1
+
+##########################    ESTRATO 2    ##########################
+set tipo(2) 1
+set grade(2) 0.02
+set layerThick(2) 8
+set rho(2) 2.24
+set refShearModul(2) 90000
+set refBulkModul(2) 220000
+set uBulk(2) 5060000
+set frictionAng(2) 32
+set vPerm(2) 0.0001
+set hPerm(2) 0.0001
+set Vs(2) 250
+set refPress(2) 101
+set surf(2) 20
+set e(2) 0.77
+set PTAng(2) 26
+set contrac1(2) 0.067
+set contrac3(2) 0.23
+set dilat1(2) 0.06
+set dilat3(2) 0.27
+set cohesion(2) -1
+
+##########################    ESTRATO 3    ##########################
+set tipo(3) 1
+set grade(3) 0.02
+set layerThick(3) 2
+set rho(3) 1.8
+set refShearModul(3) 90000
+set refBulkModul(3) 220000
+set uBulk(3) 5e-06
+set frictionAng(3) 32
+set vPerm(3) 0.0001
+set hPerm(3) 0.0001
+set Vs(3) 250
+set refPress(3) 101
+set surf(3) 20
+set e(3) 0.77
+set PTAng(3) 26
+set contrac1(3) 0.067
+set contrac3(3) 0.23
+set dilat1(3) 0.06
+set dilat3(3) 0.27
+set cohesion(3) -1
+

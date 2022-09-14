@@ -1,0 +1,6 @@
+Editado por Freddy E. Ordoñez
+
+mfbi_001.m - Archivo de rutas  /Archivo para gestión de vectores en cuadros de texto
+mfbi_002.m - Archivo para almacenamiento de información interpolada para arena
+mfbi_003.m - Archivo para almacenamiento de permutaciones
+mfbi_004.m - Archivo para almacenamiento de información de estratos

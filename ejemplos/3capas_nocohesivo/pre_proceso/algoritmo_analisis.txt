@@ -1,0 +1,54 @@
+#ANÁLISIS ESTÁTICO 
+
+set constraints_e Penalty 
+set c1_e 1e+14 
+set c2_e 1e+14 
+
+set test_e NormDispIncr 
+set tol_e 0.0001 
+set iter_e 100 
+set salida_e 2 
+
+set alg_e KrylovNewton 
+set val_e 0 
+
+set numberer_e RCM 
+
+set system_e ProfileSPD 
+
+set integrator_e Newmark 
+
+set gama_e 0.5 
+set beta_e 0.25 
+set analysis_e Transient 
+
+
+#ANÁLISIS DINÁMICO 
+
+set constraints_d Penalty 
+set c1_d 1e+16 
+set c2_d 1e+16 
+
+set test_d NormDispIncr 
+set tol_d 0.009 
+set iter_d 200 
+set salida_d 2 
+
+set alg_d KrylovNewton 
+set val_d 0 
+set numberer_d RCM 
+
+set system_d ProfileSPD 
+
+set integrator_d Newmark 
+
+set gama_d 0.5 
+set beta_d 0.25 
+set analysis_d Transient 
+
+
+#Número de columnas para el análisis 
+
+set columnas 8 
+
+

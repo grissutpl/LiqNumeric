@@ -1,0 +1,1 @@
+set pathmaster "D:/OneDrive - Universidad Técnica Particular de Loja - UTPL/REGISTROS/LiqNumeric/github/LiqNumeric/ejemplos/3capas_nocohesivo" 

@@ -1,0 +1,93 @@
+
+
+
+================================================================================
+# 1. creador_idioma.
+#
+#	1.1 crear_idioma.m: crea el nombre de los widgets para cada interfaz
+#	 		    en dos idiomas, que se almacenan en archivo idiom.mat 
+#			    no se ocupa en la funcion principal del soft 
+#
+# 2. gui ----> carpeta que contiene los archivos para las GUIDE
+#
+#	2.1 gui_algoritmo.fig : GUIDE para algoritmo de análisis
+#	    gui_algoritmo.m : código para manipulación de gui_algoritmo.fig
+#
+#	2.2 gui_estratos.fig : GUIDE para ingreso de datos mecánicos de estratos
+#	    gui_estratos.m : código para manipulación de gui_estratos.fig
+#
+#	2.3 gui_geocol.fig : GUIDE para ingreso de geometria de suelo
+#	    gui_geocol.m : código para manipulación de gui_geocol.fig
+#
+#	2.4 gui_proprock.fig : GUIDE para ingreso de propiedades de la roca
+#	    gui_proprock.m : código para manipulación de gui_proprock.fig
+#
+#	2.5 gui_regsis.fig : GUIDE para ingreso de sismo de diseño
+#	    gui_regsis.m : código para manipulación de gui_regsis.fig
+#
+#	2.6 gui_vecman.fig : GUIDE para ingreso de vectores en interfaces
+#	    gui_vecman.m : código para manipulación de gui_vecman.fig
+#
+# 3. idiom ----> carpeta que almacena base de datos para idioma
+#
+#	3.1 pidiom_en : base de datos para el intercambiado de nombre de widgets
+#			en idioma inglés 
+#	3.2 pidiom_es : base de datos para el intercambiado de nombre de widgets
+#			en idioma español
+#
+# 4. img ----> carpeta de almacenamiento de imagenes
+#
+# 5. mat ----> carpeta que almacena base de datos para manipulación en soft
+#
+#	5.1 mfbi_001 :
+#
+#	5.2 mfbi_002 :
+#
+#	5.3 mfbi_003 :
+#
+#	5.4 mfbi_004 :
+#
+#	5.5 mfbi_005 :
+#
+# 6. src ----> carpeta para almacenamiento de scripts de manipulación de soft
+#	
+#	6.1 control_de_datos: 
+#
+# 7.src_tcl ----> carpeta que almacena scripts para el análisis en OpenSees
+#
+#	7.1 A_imprimir_datos_generales: imprime datos que se necesitan para el 
+#					analisis
+#	7.2 B_geometria_suelo : genera la geometría para elementos finitos
+#
+#	7.3 C_condiciones_frontera : creación de restricciones para análisis
+#
+#	7.4 constantes : valores constantes para el análisis
+#
+#	7.5 D_tipo_material_y_elementos : genera el tipo de material para el suelo 
+#					  y su elemento de configuración
+#
+#	7.6 E_amortiguamiento : genera el tipo de amortiguamiento para análisis
+#
+#	7.7 F_grabacion_estatica : genera archivos .out para almacenamiento de 
+#				   resultados de análisis estático
+#	
+#	7.8 G_mallado_post_proceso : genera archivo para representación de #				     resultados
+#
+#	7.9 H_parametos_analisis : generación de parametros para análisis
+#
+#	7.10 I_analisis_gravitacional : generación de análisis estático
+#
+#	7.11 J_actu...permeabilidad : actualización de parámetros de permeabilidad
+#
+#	7.12 K_grabadora_post_gravedad : genera archivos .out para almacenamiento #					 de resultados de análisis dinámico
+#
+#	7.13 L_analisis_dinamico : generación de análisis dinámico
+#
+#
+#
+#
+#
+#
+#
+#
+#
