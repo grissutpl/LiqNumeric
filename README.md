@@ -3,7 +3,7 @@
 - General information can be found on the [LiqNumeric website](https://ingenieriasismica.utpl.edu.ec/?q=es/LiqNumeric).
 - The LiqNumeric comes with a [COPYRIGHT][2].
 
-**Please note:** The [GitHub repository](https://github.com/grissutpl/OpenLiqNumeric) grants read access to the code.
+**Please note:** The [GitHub repository](https://github.com/grissutpl/LiqNumeric) grants read access to the code.
 If you like to contribute to the code, please contact [epduque@utpl.edu.ec](mailto:epduque@utpl.edu.ec), [lsquinones@utpl.edu.ec](mailto:lsquinones@utpl.edu.ec).
 
 ## Install
