@@ -1,4 +1,4 @@
-# The liquefaction Numeric - LiqNumeric
+# The Liquefaction Numeric - LiqNumeric
 
 - General information can be found on the [LiqNumeric website](https://ingenieriasismica.utpl.edu.ec/?q=es/LiqNumeric).
 - The LiqNumeric comes with a [COPYRIGHT][2].
