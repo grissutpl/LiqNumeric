@@ -1,6 +1,6 @@
 # The liquefaction Numeric - LiqNumeric
 
-- General information can be found on the [LiqNumeric website](http://www.ingenieriasismica.utpl.edu.ec/software/liqnumeric/).
+- General information can be found on the [LiqNumeric website](https://ingenieriasismica.utpl.edu.ec/?q=es/LiqNumeric).
 - The LiqNumeric comes with a [COPYRIGHT][2].
 
 **Please note:** The [GitHub repository](https://github.com/grissutpl/OpenLiqNumeric) grants read access to the code.
