@@ -293,7 +293,7 @@ function mb_newproj_Callback(hObject, eventdata, handles)
 %Crear nuevo proyecto
     global path_master
     % Seleccionar la ubicación donde guardar
-    [name,path] = uiputfile('*.*','Guardar proyecto','OpenLiqProj');
+    [name,path] = uiputfile('*.*','Guardar proyecto','LiqProj');
     
     if name == 0
        return 
@@ -424,7 +424,7 @@ function mb_about_Callback(hObject, eventdata, handles)
     if p_idiom == 1
         d = dialog('Position',[450 300 400 320],'Name','Autores');
         txt = uicontrol('Parent',d,'Style','text','Position',[11 0 380 300],...
-                       'String','OpenLiq v2.0',...
+                       'String','LiqNumeric v2.0',...
                        'FontWeight','bold','FontSize',11);
 
         txt = uicontrol('Parent',d,'Style','text','Position',[215 0 310 258],...
@@ -448,7 +448,7 @@ function mb_about_Callback(hObject, eventdata, handles)
         d = dialog('Position',[450 300 400 320],'Name','Autors');
 
         txt = uicontrol('Parent',d,'Style','text','Position',[11 0 380 300],...
-                       'String','OpenLiq v2.0',...
+                       'String','LiqNumeric v2.0',...
                        'FontWeight','bold','FontSize',11);
 
         txt = uicontrol('Parent',d,'Style','text','Position',[215 0 310 258],...
