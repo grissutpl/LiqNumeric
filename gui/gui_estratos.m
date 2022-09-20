@@ -597,7 +597,7 @@ function btn_edit_Callback(hObject, eventdata, handles)
 		% Cargar información a los recuadros de texto
 		set(handles.pop_tipo,'Value',tipo_ee)
         tipo (tipo_ee,handles)
-		set(handles.edit_lyt,'String',dat_proj.layerThick{ne_edit}) 
+		set(handles.edit_lyt,'String',dat_proj.layerThick_str{ne_edit}) 
 		set(handles.edit_gra,'String',dat_proj.grade_str{ne_edit})  
 		set(handles.edit_rho,'String',dat_proj.rho_str{ne_edit}) 
 		set(handles.edit_gr,'String',dat_proj.refShearModul_str{ne_edit}) 
