@@ -9,7 +9,7 @@ If you like to contribute to the code, please contact [epduque@utpl.edu.ec](mail
 ## Install
 
 Please see the file [DEPENDENCIES][3] for external software required to run LiqNumeric.
-See also the [users manual][4] for detailed instructions to setup LiqNumeric and [quick start manual](1).
+See also the [users manual][4] for detailed instructions to setup LiqNumeric and [quick start manual][1].
 
 ## Quick start
 
